@@ -8,7 +8,9 @@ a rushed project to make a [`gTTS`](https://pypi.org/project/gTTS/) player.
 
 * **INPUT**: the input that `gTTS` feeds to [Google Translate](https://translate.google.com/).
 
-## installing playsound gives a source code error
+## error section
+
+### installing playsound gives a source code error
 
 here's a simple fix:
 
